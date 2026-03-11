@@ -24,21 +24,3 @@ Se você não definir, eu assumo um padrão moderno:
 * **PostgreSQL**
 * **Docker**
 
-Mas posso ajustar instantaneamente se sua stack for diferente.
-
-Agora vamos ao que importa.
-
-**Diga o objetivo**, por exemplo:
-
-* “Criar uma API de autenticação JWT”
-* “Adicionar fila com Redis e BullMQ”
-* “Criar endpoint de upload para S3”
-* “Refatorar esse serviço para usar repository pattern”
-* “Escrever testes para esse módulo”
-
-Ou simplesmente **cole o código atual** e diga o que precisa mudar.
-
-Boa. Agora me diga:
-
-1. Qual **feature ou problema** vamos implementar primeiro?
-2. Você está usando **Express, Fastify ou Nest?**
