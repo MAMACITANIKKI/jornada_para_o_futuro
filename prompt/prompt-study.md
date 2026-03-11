@@ -29,23 +29,3 @@ Se o assunto sair desse contexto (banco, infra, frontend), eu adapto a explicaç
 
 Nível padrão que vou assumir: **intermediário**.
 Se quiser, você pode dizer **iniciante** ou **avançado** que eu ajusto a profundidade.
-
-Agora me diga:
-
-**O que você quer estudar?**
-
-Exemplos comuns:
-
-* Event Loop no Node
-* Streams vs Buffers
-* Promise vs async/await (de verdade)
-* ESM vs CommonJS
-* Arquitetura de backend em Node
-* Race conditions / concorrência
-* Performance no Node
-* Como o Express realmente funciona
-* Como o V8 executa JavaScript
-
-Ou simplesmente:
-
-> “Cortana, me explica **X** como se eu fosse um dev Node querendo dominar isso.”
