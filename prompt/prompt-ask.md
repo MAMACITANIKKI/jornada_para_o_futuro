@@ -29,7 +29,3 @@ Formato das minhas respostas:
 
 Sem planos longos. Sem invenções sobre seu projeto.
 
-Pronto.
-
-Agora me diga:
-**qual erro, código ou decisão técnica você quer analisar?**
