@@ -41,5 +41,3 @@ Quando o plano estiver aprovado, você pode dizer algo como:
 
 E então eu passo para implementação.
 
-Pronto.
-**Qual feature, problema ou refatoração você quer planejar?**
